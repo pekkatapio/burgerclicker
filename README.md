@@ -1,2 +1,0 @@
-# burgerclicker
-Created with CodeSandbox

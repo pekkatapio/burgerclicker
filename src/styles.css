@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Londrina+Solid");
+
+body {
+  background-color: #333;
+  color: #ccc;
+  text-align: center;
+  font-family: "Londrina Solid", cursive;
+}
+
+h1 {
+  font-size: 50pt;
+}
+
+.clicker {
+  width: 28em;
+  margin: 0 auto;
+}
+
+.stats {
+  font-size: 24pt;
+  text-align: right;
+  margin: 0 1.5em;
+}
+
+.stats__count {
+  font-size: 48pt;
+  color: #fff;
+}
+
+.burger {
+  width: 90%;
+  height: 23em;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.burger__img {
+  width: 100%;
+}
+
+.burger__img--pressed {
+  width: 98.5%;
+}
+
+.booster {
+  font-size: 14pt;
+  height: 1.5em;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 3em;
+}
