@@ -152,7 +152,7 @@ button:focus {outline:0;}
 
 /* Responsive layout 
 
-  .- container -----------------------------------------.
+  .- clicker -------------------------------------------.
   |                                                     |
   |  .- header --------------------------------------.  |  ---+
   |  |                                               |  |     |
@@ -181,13 +181,13 @@ button:focus {outline:0;}
 
 */
 
-.container {
+.clicker {
   height: 100vh;
   display: flex;
   flex-direction: column; 
 }
 
-.container > * {
+.clicker > * {
   flex: 1 1 auto;  
 }
 
